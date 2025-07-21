@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "lng": 114.6520,
+    "lat": 31.2750,
+    "name": "红安县烟草专卖局",
+    "iconField": "office"
+  },
+  {
+    "id": 2,
+    "lng": 114.6485,
+    "lat": 31.2724,
+    "name": "城关镇",
+    "iconField": "town"
+  },
+  {
+    "id": 3,
+    "lng": 114.7156,
+    "lat": 31.2987,
+    "name": "杏花乡镇",
+    "iconField": "town"
+  },
+  {
+    "id": 4,
+    "lng": 114.8621,
+    "lat": 31.3562,
+    "name": "永佳河镇",
+    "iconField": "town"
+  },
+  {
+    "id": 5,
+    "lng": 114.5012,
+    "lat": 31.1876,
+    "name": "二城镇",
+    "iconField": "town"
+  },
+  {
+    "id": 6,
+    "lng": 114.4235,
+    "lat": 31.3289,
+    "name": "上新集镇",
+    "iconField": "town"
+  },
+  {
+    "id": 7,
+    "lng": 114.3567,
+    "lat": 31.1245,
+    "name": "高桥镇",
+    "iconField": "town"
+  },
+  {
+    "id": 8,
+    "lng": 114.7823,
+    "lat": 31.2156,
+    "name": "红安经济开发区",
+    "iconField": "town"
+  },
+  {
+    "id": 9,
+    "lng": 114.8217,
+    "lat": 31.1892,
+    "name": "觅儿寺镇",
+    "iconField": "town"
+  },
+  {
+    "id": 10,
+    "lng": 114.9532,
+    "lat": 31.1547,
+    "name": "八里湾镇",
+    "iconField": "town"
+  },
+  {
+    "id": 11,
+    "lng": 115.0218,
+    "lat": 31.1123,
+    "name": "太平桥镇",
+    "iconField": "town"
+  },
+  {
+    "id": 12,
+    "lng": 114.3876,
+    "lat": 31.5012,
+    "name": "七里坪镇",
+    "iconField": "town"
+  },
+  {
+    "id": 13,
+    "lng": 114.5234,
+    "lat": 31.4267,
+    "name": "华家河镇",
+    "iconField": "town"
+  },
+  {
+    "id": 14,
+    "lng": 114.5872,
+    "lat": 31.4895,
+    "name": "火连畈茶场",
+    "iconField": "town"
+  }
+]
